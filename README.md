@@ -1,6 +1,6 @@
 hibiscus-installer
 ==================
 
-Script to automate the installation of Hibiscus + Jameica
+Script to automate the installation of Hibiscus + Jameica. It is tested under debian (wheezy + jessy) and arch linux.
 
-It is tested under debian (wheezy + jessy) and arch linux. Depending on the platform it will download the 32bit or 64bit version of Jameica and the current stable version of Hibiscus. Both will be installed in "/opt/jameica".
+Depending on the platform it will download the 32bit or 64bit version of Jameica and the current stable version of Hibiscus. Both will be installed in "/opt/jameica". __Therefor the entire content of "/opt/jameica" will be removed before.__
