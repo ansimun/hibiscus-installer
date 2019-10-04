@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # This script installs the jameica plattform + hibiscus homebanking
-# Andreas Siegemund (smumm)
+# Andreas Siegemund (ansimun)
 #
 
 if [ $EUID -ne 0 ]; then
